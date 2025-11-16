@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/lorenz.dir/link.d CMakeFiles/lorenz.dir/src/main.cpp.o CMakeFiles/lorenz.dir/src/lorenz.cpp.o -o lorenz

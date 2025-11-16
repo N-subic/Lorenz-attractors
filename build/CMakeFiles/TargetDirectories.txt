@@ -1,0 +1,3 @@
+/home/nico/Dokumente/GitHubProjects/Lorenz-attractors/build/CMakeFiles/lorenz.dir
+/home/nico/Dokumente/GitHubProjects/Lorenz-attractors/build/CMakeFiles/edit_cache.dir
+/home/nico/Dokumente/GitHubProjects/Lorenz-attractors/build/CMakeFiles/rebuild_cache.dir
