@@ -31,6 +31,10 @@ For the classical parameter values:
 
 the system exhibits chaotic behavior.
 
+
+![description](media/plot.png)
+
+
 ---
 
 ## Features
