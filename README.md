@@ -21,16 +21,22 @@ The Lorenz system is defined by the following set of differential equations:
 
 ```
 
+$$ {dx \over dt} = \sigma(y-x) $$
+
+$$ {dy \over dt} = x(\rho-z)-y $$
+
+$$ {dz \over dt} = xy-{\beta}z $$
+
 Where:
 
-- $` (x(t), y(t), z(t)\) `$ — state variables over time  
-- $` (\sigma, \rho, \beta\) `$ — system parameters  
+- $` (x(t), y(t), z(t)) `$ — state variables over time  
+- $` (\sigma, \rho, \beta) `$ — system parameters  
 
 For the classical parameter values:
 
-- $` (\sigma = 10\) `$
-- $` (\rho = 28\) `$
-- $` (\beta = 8/3\) `$
+- $` \sigma = 10 `$
+- $` \rho = 28 `$
+- $` \beta = 8/3 `$
 
 the system exhibits chaotic behavior.
 
