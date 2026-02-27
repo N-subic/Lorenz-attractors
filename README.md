@@ -13,24 +13,24 @@ The **Lorenz Attractor** is a dynamical system introduced in 1963 by Edward Lore
 The Lorenz system is defined by the following set of differential equations:
 
 ```math
-\frac{dx}{dt} = \sigma (y - x)
+\frac{dx}{dt} = \sigma (y - x) \\
 
-\frac{dy}{dt} = x (\rho - z) - y
+\frac{dy}{dt} = x (\rho - z) - y \\
 
-\frac{dz}{dt} = xy - \beta z
+\frac{dz}{dt} = xy - \beta z \\
 
 ```
 
 Where:
 
-- $ (x(t), y(t), z(t)\) $ — state variables over time  
-- $ (\sigma, \rho, \beta\) $ — system parameters  
+- $` (x(t), y(t), z(t)\) `$ — state variables over time  
+- $` (\sigma, \rho, \beta\) `$ — system parameters  
 
 For the classical parameter values:
 
-- $ (\sigma = 10\)$
-- $ (\rho = 28\) $
-- $ (\beta = 8/3\) $
+- $` (\sigma = 10\) `$
+- $` (\rho = 28\) `$
+- $` (\beta = 8/3\) `$
 
 the system exhibits chaotic behavior.
 
