@@ -12,15 +12,6 @@ The **Lorenz Attractor** is a dynamical system introduced in 1963 by Edward Lore
 
 The Lorenz system is defined by the following set of differential equations:
 
-```math
-\frac{dx}{dt} = \sigma (y - x) \\
-
-\frac{dy}{dt} = x (\rho - z) - y \\
-
-\frac{dz}{dt} = xy - \beta z \\
-
-```
-
 $$ {dx \over dt} = \sigma(y-x) $$
 
 $$ {dy \over dt} = x(\rho-z)-y $$
